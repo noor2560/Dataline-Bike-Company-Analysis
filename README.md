@@ -102,9 +102,8 @@ The transition to Power BI facilitates better decision-making and supports the c
 ### Repository Contents:
 
 - README file 
+- Data (4 sales file (2017-2020), 1 Excel file with multiple pages of Retail Company Data)
 - Power BI report files (.pbix)
-- Data sources and transformation scripts
-
 
 
 
